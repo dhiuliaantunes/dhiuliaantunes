@@ -7,7 +7,7 @@
   <a href="github.com/dhiuliaantunes"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhiuliaantunes&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiuliaantunes&layout=compact&langs_count=16&theme=synthwave"/>
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1l-8ZveATVw4MSNP7wvr2OW0-Ty39reia/view?usp=sharing">
+   <img align="right" alt="dhiu" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1l-8ZveATVw4MSNP7wvr2OW0-Ty39reia/view?usp=sharing">
 </div>
 
 <div style="display: inline_block"><br></br>

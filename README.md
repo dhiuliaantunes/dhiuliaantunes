@@ -8,7 +8,7 @@
   <a href="github.com/dhiuliaantunes"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhiuliaantunes&show_icons=true&theme=synthwave"/>-->
   <img align="right" alt="dhiu" height="150" style="border-radius:50px;" src="https://github.com/dhiuliaantunes/dhiuliaantunes/blob/master/dhiu.png">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiuliaantunes&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiuliaantunes&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>

@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou a Dhiulia
-- 💻 Atuando como Desenvolvedora Jr
+- 💻 Atuando como Desenvolvedora Pleno
 - 👩 Hoje trabalho como back-end | desenvolvimento com .NET
 - 📗 Estou cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estudo um pouquinho de tudo e deixo registrado nesse perfil :)
